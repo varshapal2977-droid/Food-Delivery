@@ -2,13 +2,11 @@
 Foodie – Food Delivery Website (Capstone Project)
 Theme
 Food Delivery App
-(Chosen from the Capstone Project themes – Page 1 of Assignment PDF)
+(
 
 Description
 This project is a fully responsive Food Delivery landing page made using
-HTML5, CSS3, Flexbox, CSS Grid, and Media Queries, following
-all requirements from Lab Assignment 5.
-
+HTML5, CSS3, Flexbox, CSS Grid, and Media Queries
 Sections Implemented
 ✔ Header + Navigation
 ✔ Hero/Banner
